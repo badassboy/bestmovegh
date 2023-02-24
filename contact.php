@@ -27,7 +27,7 @@
 
                <dl>
                    <dt>Office Location</dt>
-                   <dd>P.O box CT Cantonment-Accra</dd>
+                   <dd>P.O box CT 2131 Cantonment-Accra</dd>
 
                    <dt>Phone Numbers</dt>
                    <dd>0550279889</dd>
@@ -35,7 +35,7 @@
 
                    <dt>Email Address</dt>
                    <dd>info@bestmovegh.com</dd>
-                   <dd>bestmovegh.com</dd>
+                   <dd>bestmovegh@gmail.com</dd>
                </dl>
                     
                 </div>

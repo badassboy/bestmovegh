@@ -17,8 +17,9 @@
     <!-- Team Start -->
     <div class="container-fluid py-6 px-5">
         <div class="text-center mx-auto mb-5" style="max-width: 600px;">
-            <h1 class="display-5 text-uppercase mb-4">We Are <span class="text-primary">Professional & Expert</span> Workers</h1>
+            <h3 class="display-7 mb-4">We Are <span class="text-primary">Professional & Expert</span> Workers</h3>
         </div>
+
         <div class="row g-5">
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="row g-0">
@@ -38,8 +39,8 @@
                     </div>
                     <div class="col-12">
                         <div class="bg-light p-4">
-                            <h4 class="text-uppercase">Adam Phillips</h4>
-                            <span>CEO & Founder</span>
+                            <h4 class="text-uppercase">Abraham Amponsah</h4>
+                            <span>Administrator</span>
                         </div>
                     </div>
                 </div>
@@ -62,8 +63,8 @@
                     </div>
                     <div class="col-12">
                         <div class="bg-light p-4">
-                            <h4 class="text-uppercase">Dylan Adams</h4>
-                            <span>Civil Engineer</span>
+                            <h4 class="text-uppercase">Adusei Boakye Prince</h4>
+                            <span>Project Manager</span>
                         </div>
                     </div>
                 </div>
@@ -86,8 +87,8 @@
                     </div>
                     <div class="col-12">
                         <div class="bg-light p-4">
-                            <h4 class="text-uppercase">Jhon Doe</h4>
-                            <span>Interior Designer</span>
+                            <h4 class="text-uppercase">Elizabeth Ayeh</h4>
+                            <span>Secretary</span>
                         </div>
                     </div>
                 </div>
@@ -110,13 +111,14 @@
                     </div>
                     <div class="col-12">
                         <div class="bg-light p-4">
-                            <h4 class="text-uppercase">Josh Dunn</h4>
-                            <span>Painter</span>
+                            <h4 class="text-uppercase">James Ayiba</h4>
+                            <span>Operation Manager</span>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
+
+            <!-- <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="row g-0">
                     <div class="col-10" style="min-height: 300px;">
                         <div class="position-relative h-100">
@@ -139,8 +141,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
+            </div> -->
+           <!--  <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="row g-0">
                     <div class="col-10" style="min-height: 300px;">
                         <div class="position-relative h-100">
@@ -163,8 +165,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
+            </div> -->
+           <!--  <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="row g-0">
                     <div class="col-10" style="min-height: 300px;">
                         <div class="position-relative h-100">
@@ -187,8 +189,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
+            </div> -->
+            <!-- <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="row g-0">
                     <div class="col-10" style="min-height: 300px;">
                         <div class="position-relative h-100">
@@ -211,7 +213,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- Team End -->

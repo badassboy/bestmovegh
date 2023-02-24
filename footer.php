@@ -6,9 +6,9 @@
                 </a>
                 <p>A significant milestone with a commensurate significant achievement. We work in partnershp with Consultants, Subcontractors,Institutions and Suppliers that deliver high-quality products and services that emboss our touch of excellence</p>
 
-                <p><i class="fa fa-map-marker-alt me-2"></i>P.O.box CT, Cantoment-Accra</p>
+                <p><i class="fa fa-map-marker-alt me-2"></i>P.O.box CT 2131, Cantoment-Accra</p>
                 <p><i class="fa fa-phone-alt me-2"></i>0206048992</p>
-                <p><i class="fa fa-envelope me-2"></i>info@example.com</p>
+                <p><i class="fa fa-envelope me-2"></i>info@bestmovegh.com</p>
 
                 <div class="d-flex justify-content-start mt-4">
                     <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="#"><i class="fab fa-twitter"></i></a>

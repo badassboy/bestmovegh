@@ -348,7 +348,7 @@
                     </div>
                     <div class="col-12">
                         <div class="bg-light p-4">
-                            <h4 class="">Joseph K Oppong</h4>
+                            <h4 class="text-uppercase">Joseph K Oppong</h4>
                             <span>CEO & Founder</span>
                         </div>
                     </div>
@@ -372,7 +372,7 @@
                     </div>
                     <div class="col-12">
                         <div class="bg-light p-4">
-                            <h4 class="">Abraham Amponsah</h4>
+                            <h4 class="text-uppercase">Abraham Amponsah</h4>
                             <span>Administrator</span>
                         </div>
                     </div>
@@ -396,7 +396,7 @@
                     </div>
                     <div class="col-12">
                         <div class="bg-light p-4">
-                            <h4 class="">Adusei Boakye Prince</h4>
+                            <h4 class="text-uppercase">Adusei Boakye Prince</h4>
                             <span>Project Manager</span>
                         </div>
                     </div>
@@ -420,7 +420,7 @@
                     </div>
                     <div class="col-12">
                         <div class="bg-light p-4">
-                            <h4 class="">Secretary</h4>
+                            <h4 class="text-uppercase">Secretary</h4>
                             <span>Elizabeth Ayeh</span>
                         </div>
                     </div>
