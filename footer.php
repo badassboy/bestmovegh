@@ -2,7 +2,10 @@
         <div class="row g-5">
             <div class="col-lg-6 pe-lg-5">
                 <a href="index.php" class="navbar-brand">
-                    <h3 class="m-0 display-7 text-white"><i class="bi bi-building text-primary me-2"></i>Bestmove Limited</h3>
+                    <h3 class="m-0 display-7 text-white">
+                        <!-- <i class="bi bi-building text-primary me-2"></i> -->
+                         <img src="img/newLogo.jpg" class="img-fluid" alt="Responsive image" width="50" height="50">
+                    Bestmove Limited</h3>
                 </a>
                 <p>A significant milestone with a commensurate significant achievement. We work in partnershp with Consultants, Subcontractors,Institutions and Suppliers that deliver high-quality products and services that emboss our touch of excellence</p>
 
@@ -11,10 +14,10 @@
                 <p><i class="fa fa-envelope me-2"></i>info@bestmovegh.com</p>
 
                 <div class="d-flex justify-content-start mt-4">
-                    <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="#"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square rounded-0" href="#"><i class="fab fa-instagram"></i></a>
+                    <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="#"><i class="fab fa-twitter"></i></a> -->
+        <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="https://www.facebook.com/bestmovegh"><i class="fab fa-facebook-f"></i></a>
+        <a class="btn btn-lg btn-primary btn-lg-square rounded-0 me-2" href="https://www.linkedin.com/in/bestmove-africa-95604921b?trk=contact-info"><i class="fab fa-linkedin-in"></i></a>
+                    <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded-0" href="#"><i class="fab fa-instagram"></i></a> -->
                 </div>
             </div>
 

@@ -9,8 +9,8 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <i class="fa fa-home fa-4x text-primary mb-4 d-none d-sm-block"></i>
-                            <h1 class="display-2 text-uppercase text-white mb-md-4">Build Your Dream House With Us</h1>
-                            <a href="" class="btn btn-primary py-md-3 px-md-5 mt-2">Get A Quote</a>
+                            <h3 class="display-5  text-white mb-md-4">Build Your Dream House With Us</h3>
+                            <a href="contact.php" class="btn btn-primary py-md-3 px-md-5 mt-2">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -19,8 +19,8 @@
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <i class="fa fa-tools fa-4x text-primary mb-4 d-none d-sm-block"></i>
-                            <h1 class="display-2 text-uppercase text-white mb-md-4">We Are Trusted For Your Project</h1>
-                            <a href="" class="btn btn-primary py-md-3 px-md-5 mt-2">Contact Us</a>
+                            <h3 class="display-5  text-white mb-md-4">We Are Trusted For Your Project</h3>
+                            <a href="contact.php" class="btn btn-primary py-md-3 px-md-5 mt-2">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -250,10 +250,10 @@
             <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item first">
                 <div class="position-relative portfolio-box">
                     <img class="img-fluid w-100" src="img/portfolio-1.jpg" alt="">
-                    <a class="portfolio-title shadow-sm" href="">
+                    <!-- <a class="portfolio-title shadow-sm" href="">
                         <p class="h4 text-uppercase">Project Name</p>
                         <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, New York, USA</span>
-                    </a>
+                    </a> -->
                     <a class="portfolio-btn" href="img/portfolio-1.jpg" data-lightbox="portfolio">
                         <i class="bi bi-plus text-white"></i>
                     </a>
@@ -262,22 +262,22 @@
             <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item second">
                 <div class="position-relative portfolio-box">
                     <img class="img-fluid w-100" src="img/portfolio-2.jpg" alt="">
-                    <a class="portfolio-title shadow-sm" href="">
+                   <!--  <a class="portfolio-title shadow-sm" href="">
                         <p class="h4 text-uppercase">Project Name</p>
                         <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, New York, USA</span>
-                    </a>
-                    <a class="portfolio-btn" href="img/portfolio-2.jpg" data-lightbox="portfolio">
+                    </a> -->
+                   <!--  <a class="portfolio-btn" href="img/portfolio-2.jpg" data-lightbox="portfolio">
                         <i class="bi bi-plus text-white"></i>
-                    </a>
+                    </a> -->
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item first">
                 <div class="position-relative portfolio-box">
                     <img class="img-fluid w-100" src="img/portfolio-3.jpg" alt="">
-                    <a class="portfolio-title shadow-sm" href="">
+                    <!-- <a class="portfolio-title shadow-sm" href="">
                         <p class="h4 text-uppercase">Project Name</p>
                         <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, New York, USA</span>
-                    </a>
+                    </a> -->
                     <a class="portfolio-btn" href="img/portfolio-3.jpg" data-lightbox="portfolio">
                         <i class="bi bi-plus text-white"></i>
                     </a>
@@ -286,37 +286,37 @@
             <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item second">
                 <div class="position-relative portfolio-box">
                     <img class="img-fluid w-100" src="img/portfolio-4.jpg" alt="">
-                    <a class="portfolio-title shadow-sm" href="">
+                   <!--  <a class="portfolio-title shadow-sm" href="">
                         <p class="h4 text-uppercase">Project Name</p>
                         <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, New York, USA</span>
-                    </a>
-                    <a class="portfolio-btn" href="img/portfolio-4.jpg" data-lightbox="portfolio">
+                    </a> -->
+                   <!--  <a class="portfolio-btn" href="img/portfolio-4.jpg" data-lightbox="portfolio">
                         <i class="bi bi-plus text-white"></i>
-                    </a>
+                    </a> -->
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item first">
                 <div class="position-relative portfolio-box">
                     <img class="img-fluid w-100" src="img/portfolio-5.jpg" alt="">
-                    <a class="portfolio-title shadow-sm" href="">
+                   <!--  <a class="portfolio-title shadow-sm" href="">
                         <p class="h4 text-uppercase">Project Name</p>
                         <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, New York, USA</span>
                     </a>
                     <a class="portfolio-btn" href="img/portfolio-5.jpg" data-lightbox="portfolio">
                         <i class="bi bi-plus text-white"></i>
-                    </a>
+                    </a> -->
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item second">
                 <div class="position-relative portfolio-box">
                     <img class="img-fluid w-100" src="img/portfolio-6.jpg" alt="">
-                    <a class="portfolio-title shadow-sm" href="">
+                    <!-- <a class="portfolio-title shadow-sm" href="">
                         <p class="h4 text-uppercase">Project Name</p>
                         <span class="text-body"><i class="fa fa-map-marker-alt text-primary me-2"></i>123 Street, New York, USA</span>
                     </a>
                     <a class="portfolio-btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">
                         <i class="bi bi-plus text-white"></i>
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>

@@ -13,7 +13,8 @@
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@500;700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@500;700&display=swap" rel="stylesheet">  -->
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css" rel="stylesheet">
@@ -71,7 +72,10 @@
     <div class="container-fluid sticky-top bg-dark  shadow-sm px-5 pe-lg-0">
         <nav class="navbar navbar-expand-lg bg-dark  navbar-dark py-3 py-lg-0">
             <a href="index.php" class="navbar-brand">
-                <h3 class="m-0 display-7 text-white"><i class="bi bi-building text-primary me-2"></i>Bestmove Limited</h3>
+                <h3 class="m-0 display-7 text-white">
+                    <!-- <i class="bi bi-building text-primary me-2"></i> -->
+                    <img src="img/newLogo.jpg" class="img-fluid" alt="Responsive image" width="50" height="50">
+                Bestmove Limited</h3>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
