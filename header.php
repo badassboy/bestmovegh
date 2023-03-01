@@ -9,7 +9,7 @@
     <meta content="Your reliable real estate service provider" name="description">
 
     <!-- Favicon -->
-    <link href="img/logo.jpeg" rel="icon">
+    <link href="img/newLogo.jpg" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">

@@ -65,8 +65,8 @@
                 <!-- <img src="img/signature.jpg" alt=""> -->
             </div>
             <div class="col-lg-5 pb-5" style="min-height: 400px;">
-                <div class="position-relative bg-dark-radial h-100 ms-5">
-                    <img class="position-absolute w-100 h-100 mt-5 ms-n5" src="img/about.jpg" style="object-fit: cover;">
+                <div class="position-relative  h-100 ">
+                    <img class="position-absolute w-100 h-100" src="img/ceo.jpeg" style="object-fit: cover;">
                 </div>
             </div>
         </div>
@@ -358,7 +358,7 @@
                 <div class="row g-0">
                     <div class="col-10" style="min-height: 300px;">
                         <div class="position-relative h-100">
-                            <img class="position-absolute w-100 h-100" src="img/team-2.jpg" style="object-fit: cover;">
+                            <img class="position-absolute w-100 h-100" src="img/admin.jpeg" style="object-fit: cover;">
                         </div>
                     </div>
                     <div class="col-2">
@@ -406,7 +406,7 @@
                 <div class="row g-0">
                     <div class="col-10" style="min-height: 300px;">
                         <div class="position-relative h-100">
-                            <img class="position-absolute w-100 h-100" src="img/team-4.jpg" style="object-fit: cover;">
+                            <img class="position-absolute w-100 h-100" src="img/secretary.jpeg" style="object-fit: cover;">
                         </div>
                     </div>
                     <div class="col-2">
@@ -445,10 +445,10 @@
                     <div class="owl-carousel testimonial-carousel">
                         <div class="row gx-4 align-items-center">
                             <div class="col-xl-4 col-lg-5 col-md-5">
-                                <img class="img-fluid w-100 h-100 bg-light p-lg-3 mb-4 mb-md-0" src="img/testimonial-1.jpg" alt="">
+                                <img class="img-fluid w-100 h-100 bg-light p-lg-3 mb-4 mb-md-0" src="img/test1.jpeg" alt="">
                             </div>
                             <div class="col-xl-8 col-lg-7 col-md-7">
-                                <h4 class="text-uppercase mb-0">Emmanuel</h4>
+                                <h4 class="text-uppercase mb-0">Abigail</h4>
                                 <!-- <p>Software Engineer</p> -->
                                 <p class="fs-5 mb-0"><i class="fa fa-2x fa-quote-left text-primary me-2"></i>With the help of Bestmove Limited, i was able to build my house at affordable price</p>
                             </div>
