@@ -179,10 +179,10 @@
                         </div>
                         <div class="row gx-4 align-items-center">
                             <div class="col-xl-4 col-lg-5 col-md-5">
-                                <img class="img-fluid w-100 h-100 bg-light p-lg-3 mb-4 mb-md-0" src="img/testimonial-2.jpg" alt="">
+                                <img class="img-fluid w-100 h-100 bg-light p-lg-3 mb-4 mb-md-0" src="img/test1.jpeg" alt="">
                             </div>
                             <div class="col-xl-8 col-lg-7 col-md-7">
-                                <h4 class="text-uppercase mb-0">Charles Koge</h4>
+                                <h4 class="text-uppercase mb-0">Abigail</h4>
                                 <!-- <p>Profession</p> -->
                                 <p class="fs-5 mb-0"><i class="fa fa-2x fa-quote-left text-primary me-2"></i>I was able to complete my apartment with the help of this company. I recommend them to the general public</p>
                             </div>
